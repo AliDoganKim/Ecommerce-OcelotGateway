@@ -1,9 +1,9 @@
 #  .Net Core Microservice Api Gateway
 
-Gateway için : Install-Package Ocelot 
+For Gateway: Install-Package Ocelot
 
-Cart projesi için istekte bulunmanız gereken Url : http://localhost:5000/cart-api/cart
+You need to request a cart project Url: http://localhost:5000/cart-api/cart
 
-Order projesi için istekte bulunmanız gereken url : http://localhost:5000/order-api/order
+The url you need to request for the order project is: http://localhost:5000/order-api/order
 
-Route detayları "gateway" projesinde ocelot.json dosyasındadır.
+Route details are in ocelot.json file in "gateway" project.
